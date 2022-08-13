@@ -1,6 +1,5 @@
 # redirect.py
-open redirect subdomains scanner by ak1t4
-know.0nix@gmail.com
+
 
 Use ./redirect.py [subdomains.file] [redirect-payload]
 
